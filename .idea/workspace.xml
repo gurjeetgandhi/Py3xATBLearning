@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="136fab15-6276-40f1-bfa0-1e75441775f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab013.py" afterDir="false" />
+    <list default="true" id="136fab15-6276-40f1-bfa0-1e75441775f4" name="Changes" comment="Variables and data types explananation">
       <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +79,21 @@
       <option name="presentableId" value="Default" />
       <updated>1717695223505</updated>
     </task>
+    <task id="LOCAL-00001" summary="Variables and data types explananation">
+      <option name="closed" value="true" />
+      <created>1717701789857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717701789857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Variables and data types explananation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables and data types explananation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
